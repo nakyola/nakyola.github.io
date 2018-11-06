@@ -1,2 +1,0 @@
-# nakyola.github.io
-Hello
